@@ -13,10 +13,6 @@ Atualmente estou no primeiro ano da Etec cursando informática para internet, co
 ---
 [![](https://komarev.com/ghpvc/?username=gustavocbastos11-arch&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-- 🔭 Estou atualmente no primeiro ano da Etec
-- 🌱 cursando informática para internet
-- 💬 Tentando ter mais experiências profissionais
 
 <!--
 **gustavocbastos11-arch/gustavocbastos11-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
