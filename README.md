@@ -1,5 +1,6 @@
 # 💫 About Me:
-Atualmente estou no primeiro ano da Etec.<br>Cursando informática para internet.<br>Tentando ter mais experiências profissionais.
+
+Atualmente estou no primeiro ano da Etec cursando informática para internet Tentando ter mais experiências profissionais.
 
 
 # 💻 Tech Stack:
