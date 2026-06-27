@@ -5,6 +5,30 @@ Atualmente estou no primeiro ano da Etec cursando informática para internet, co
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+<h1 align="center">Certificados</h1>
+
+<div align="center">
+
+<a href="link">
+    <img src=""C:\Users\Gustavo\Downloads\Captura de ecrã_26-6-2026_224248_.jpeg"" alt="Certificado de Banco de dados" width="200">
+</a>
+
+<a href="link">
+    <img src="local da foto" alt="Certificado 2" width="200">
+</a>
+
+<a href="link">
+    <img src="local da foto" alt="Certificado 3" width="200">
+</a>
+
+<a href="link">
+    <img src="local da foto" alt="Certificado 4" width="200">
+</a>
+</div>
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=gustavocbastos11-arch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=gustavocbastos11-arch&theme=dark&hide_border=false)<br/>
