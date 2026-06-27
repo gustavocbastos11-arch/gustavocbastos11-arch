@@ -15,16 +15,19 @@ Atualmente estou no primeiro ano da Etec cursando informática para internet, co
 
 </a>
 
-<a href="link">
-    <img src="local da foto" alt="Certificado 2" width="200">
+<a href="https://skills.yourlearning.ibm.com/certificate/share/4f8722999eewogICJvYmplY3RJZCIgOiAiUExBTi1CMkRFNUM5MjdFRUMiLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDc2MTI2UkVHIgp9a857ac6162-10">
+   <img width="300" height="200" alt="Captura de ecrã_26-6-2026_222025_" src="https://github.com/user-attachments/assets/a7061bbe-c9f9-4bdd-a61a-551779b5beee" />
+
 </a>
 
-<a href="link">
-    <img src="local da foto" alt="Certificado 3" width="200">
+<a href="https://skills.yourlearning.ibm.com/certificate/share/293a45f55dewogICJvYmplY3RJZCIgOiAiUExBTi0zNzQ5QzcyMTE3RTIiLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDc2MTI2UkVHIgp95ead8a87e5-10">
+   <img width="300" height="200" alt="Captura de ecrã 2026-06-26 233342" src="https://github.com/user-attachments/assets/d927b56c-41d3-4332-bf7c-30695b41ad96" />
+
 </a>
 
-<a href="link">
-    <img src="local da foto" alt="Certificado 4" width="200">
+<a href="https://skills.yourlearning.ibm.com/certificate/share/5b2de1a74dewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDc2MTI2UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tODc0OUMwMkE3OEVDIgp964818c6f16-10">
+   <img width="300" height="200" alt="Captura de ecrã 2026-06-26 233729" src="https://github.com/user-attachments/assets/ae387fc9-d156-4ff5-9a84-41e07033587f" />
+
 </a>
 </div>
 
