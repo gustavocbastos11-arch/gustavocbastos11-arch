@@ -16,7 +16,8 @@ Atualmente estou no primeiro ano da Etec cursando informática para internet, co
 </a>
 
 <a href="https://skills.yourlearning.ibm.com/certificate/share/4f8722999eewogICJvYmplY3RJZCIgOiAiUExBTi1CMkRFNUM5MjdFRUMiLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDc2MTI2UkVHIgp9a857ac6162-10">
-   <img width="300" height="200" alt="Captura de ecrã_26-6-2026_222025_" src="https://github.com/user-attachments/assets/a7061bbe-c9f9-4bdd-a61a-551779b5beee" />
+  <img width="300" height="200" alt="Captura de ecrã 2026-06-26 232935" src="https://github.com/user-attachments/assets/87b11bcc-462b-4b77-b3f7-af06552cb29b" />
+
 
 </a>
 
