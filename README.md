@@ -11,7 +11,7 @@ Atualmente estou no primeiro ano da Etec cursando informática para internet, co
 <div align="center">
 
 <a href="https://skills.yourlearning.ibm.com/certificate/share/cca165fb1eewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDc2MTI2UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tMTRGMjY5MUUzQTMyIgp90f00183b50-10">
-    <img src="C:\Users\Gustavo\Downloads\Banco de Dados.jpeg" alt="Banco de Dados.jpeg" width="200">
+    <img src="C:\Users\Gustavo\Downloads\Banco de Dados.jpeg" alt="C:\Users\Gustavo\Downloads\Banco de Dados.jpeg" width="200">
 </a>
 
 <a href="link">
